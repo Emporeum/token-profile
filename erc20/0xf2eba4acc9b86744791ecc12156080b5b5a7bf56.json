@@ -1,0 +1,22 @@
+{
+  "symbol": "EMP",
+  "address": "0xf2eba4acc9b86744791ecc12156080b5b5a7bf56",
+  "overview":{
+        "en": "Token Description.",
+        "zh": ""
+  },
+  "email": "contacts@emporeum.org",
+  "website": "https://emporeum.org/",
+  "state": "NORMAL",
+  "published_on": "2018-06-03",
+
+  },
+  "links": {
+    "twitter": "https://twitter.com/emporeumorg",
+    "telegram": "https://t.me/joinchat/IATDpRIg19rL-HKHhXfa8g",
+    "github": "https://github.com/Emporeum",
+    "facebook": "https://www.facebook.com/Emporeum-EMP-1982045058791936",
+    "reddit": "https://www.reddit.com/user/emporeum",
+    "medium": "https://medium.com/@emporeumorg"
+  }
+}
