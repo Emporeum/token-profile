@@ -2,13 +2,13 @@
   "symbol": "EMP",
   "address": "0xf2eba4acc9b86744791ecc12156080b5b5a7bf56",
   "overview":{
-        "en": "Token Description.",
-        "zh": ""
+        "en": "Decentralized platform that run smart contract digital money system.",
+        "zh": "运行智能合约数字货币系统的分散式平台。",
   },
   "email": "contacts@emporeum.org",
   "website": "https://emporeum.org/",
   "state": "NORMAL",
-  "published_on": "2018-06-03",
+  "published_on": "2018-06-23",
 
   },
   "links": {
